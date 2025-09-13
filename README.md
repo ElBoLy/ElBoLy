@@ -47,6 +47,14 @@ Tengo 24 años y estudie ingenieria en sistemas computacionales. En general me a
 
 ---
 
+## 🎯 Mis intereses
+
+- Desarrollo web y apps  
+- Ediciones de video 
+- Diseño gráfico (Canva)  
+
+---
+
 ## 🔭 Actualmente estoy trabajando en
 
 - Mejorando mis habilidades en **ReactJS** y desarrollo frontend.
