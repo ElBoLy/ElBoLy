@@ -29,7 +29,9 @@ Tengo 23 años y estudie ingenieria en sistemas computacionales. En general me a
 
 ---
 
-![LuisAngel Stats](https://github-readme-stats.vercel.app/api?username=NuevoUsuario&show_icons=true&theme=radical)
+## 📊 Mis Stats
+
+![LuisMurSal GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMurSal&show_icons=true&theme=radical)
 
 ---
 
