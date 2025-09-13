@@ -65,8 +65,10 @@ Tengo 24 años y estudie ingenieria en sistemas computacionales. En general me a
 
 ## 📫 Contáctame
 
-- [Email](mailto:tuemail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- [Email](bolliyodjms16@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/luis-angel-murillo-salinas)
+- [GitHub](https://github.com/ElBoLy)
+
 
 ---
 
