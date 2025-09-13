@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Luis Angel (me dicen BoLy)
 
-Tengo 23 años y estudie ingenieria en sistemas computacionales. En general me atrae mucho la programacion, en especial en el entorno de front.
+Tengo 24 años y estudie ingenieria en sistemas computacionales. En general me atrae mucho la programacion, en especial en el entorno de front.
 
 ---
 
@@ -32,6 +32,12 @@ Tengo 23 años y estudie ingenieria en sistemas computacionales. En general me a
 ## 📊 Mis Stats
 
 ![LuisMurSal GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMurSal&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=LuisMurSal&theme=radical&no-frame=true)](https://github.com/LuisMurSal)
 
 ---
 
