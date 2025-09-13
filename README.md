@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Luis Angel Murillo Salinas
+# ¡Hola! 👋 Soy Luis Angel (me dicen BoLy)
 
 Tengo 23 años y estudie ingenieria en sistemas computacionales. En general me atrae mucho la programacion, en especial en el entorno de front.
 
