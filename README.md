@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Luis Angel Murillo Salinas
 
-Tengo 23 años y soy un apasionado del desarrollo web y la programación. Me encanta crear aplicaciones funcionales y aprender nuevas tecnologías constantemente.  
+Tengo 23 años y estudie ingenieria en sistemas computacionales. En general me atrae mucho la programacion, en especial en el entorno de front.
 
 ---
 
@@ -9,6 +9,7 @@ Tengo 23 años y soy un apasionado del desarrollo web y la programación. Me enc
 - **HTML**
 - **CSS**
 - **Java**
+- **JavaScript**
 - **ReactJS**
 
 ---
@@ -17,6 +18,7 @@ Tengo 23 años y soy un apasionado del desarrollo web y la programación. Me enc
 
 - Mejorando mis habilidades en **ReactJS** y desarrollo frontend.
 - Creando proyectos personales para practicar integración de tecnologías.
+- Subir mis repos para mostrar algunos trabajos que he hecho.
 
 ---
 
@@ -24,7 +26,6 @@ Tengo 23 años y soy un apasionado del desarrollo web y la programación. Me enc
 
 - [Email](mailto:tuemail@example.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- [GitHub](https://github.com/tu-usuario)
 
 ---
 
