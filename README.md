@@ -14,6 +14,12 @@ Tengo 24 años y estudie ingenieria en sistemas computacionales. En general me a
 
 ---
 
+## 🖥️ Lenguaje más usado
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMurSal&layout=compact&theme=radical)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
